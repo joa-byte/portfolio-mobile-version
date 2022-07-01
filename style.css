@@ -23,7 +23,7 @@ h1{
     font-weight: 400;
     font-size: 50px;
     line-height: 100%;
-    color: #1A2236;    
+    color: #1a2236;
     margin: 0;
 }
 
@@ -33,8 +33,8 @@ h1{
     margin-top: 30px;
 }
 
-p{
-    font-family: 'Poppins';
+p {
+  font-family: 'Poppins', sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
@@ -53,15 +53,13 @@ p{
     width: 288px;
     height: 50px;
     background: #1a2236;
-
-    font-family: 'Poppins';
+    font-family: 'Poppins', sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
     line-height: 24px;
     text-align: center;
     color: #fff;
-
     margin-top: 40px;
 }
 
@@ -104,7 +102,7 @@ ul.lenguajes-list {
 
 ul.lenguajes-list li {
     display: inline;
-    font-family: 'Poppins';
+    font-family: 'Poppins', sans-serif;
     font-style: normal;
     font-weight: 300;
     font-size: 10.3334px;
@@ -120,17 +118,12 @@ ul.lenguajes-list li {
     width: 178px;
     height: 44px;
     border: 1px solid #fff;
-    font-family: 'Poppins';
+    font-family: 'Poppins', sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
     line-height: 24px;
     background: none;
-    font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 24px;
     text-align: center;
     color: #fff;
 }
@@ -157,7 +150,7 @@ ul.lenguajes-list li {
 .get-cv {
     width: 288px;
     height: 50px;
-    font-family: 'Poppins';
+    font-family: 'Poppins', sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
@@ -189,7 +182,7 @@ ul.lenguajes-list li {
 }
 
 .resume-box-title {
-    font-family: 'Poppins';
+    font-family: 'Poppins', sans-serif;
     font-style: normal;
     font-weight: 800;
     font-size: 20px;
@@ -203,7 +196,7 @@ ul.resume-list {
 }
 
 ul.resume-list li {
-    font-family: 'Poppins';
+    font-family: 'Poppins', sans-serif;
     font-style: normal;
     font-weight: 600;
     font-size: 18px;
@@ -212,15 +205,15 @@ ul.resume-list li {
     color: #fff;
 }
 
-#lenguges-resume-box{
+#lenguges-resume-box {
     background-image: url(./img/resume/languages.png);
 }
 
-#frameworks-resume-box{
+#frameworks-resume-box {
     background-image: url(./img/resume/frameworks.png);
 }
 
-#skills-resume-box{
+#skills-resume-box {
     background-image: url(./img/resume/skills.png);
 }
 
@@ -233,13 +226,13 @@ ul.resume-list li {
 .get-started-description {
     width: 288px;
     height: 63px;
-    font-family: 'Poppins';
+    font-family: 'Poppins', sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
     line-height: 21px;
     letter-spacing: -0.01em;
-    color: #1A2236;
+    color: #1a2236;
 }
 
 #form-name {
@@ -288,7 +281,7 @@ ul.resume-list li {
 #get-resume {
     width: 164px;
     height: 24px;
-    font-family: 'Poppins';
+    font-family: 'Poppins', sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
