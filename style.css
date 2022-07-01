@@ -49,7 +49,7 @@ p{
     margin-top: 20px;
 }
 
-#button-collaboration {
+.button-collaboration {
     width: 288px;
     height: 50px;
     background: #1a2236;
@@ -177,6 +177,7 @@ ul.lenguajes-list li {
     margin-top: 40px;
     padding-left: 16px;
     padding-right: 16px;
+    margin-bottom: 50px;
 }
 
 .resume-box {
@@ -221,4 +222,100 @@ ul.resume-list li {
 
 #skills-resume-box{
     background-image: url(./img/resume/skills.png);
+}
+
+.get-started-section {
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 32px;
+}
+
+.get-started-description {
+    width: 288px;
+    height: 63px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    letter-spacing: -0.01em;
+    color: #1A2236;
+}
+
+#form-name {
+    width: 272px;
+    height: 52px;
+    padding-left: 16px;
+    background: #fff;
+    border: 1px solid #dfdfe0;
+    border-radius: 4px;
+    margin-top: 32px;
+}
+
+#form-email {
+    width: 272px;
+    height: 52px;
+    padding-left: 16px;
+    background: #fff;
+    border: 1px solid #1a2236;
+    border-radius: 4px;
+    margin-top: 8px;
+}
+
+#form-message {
+    width: 272px;
+    height: 112px;
+    padding-left: 16px;
+    background: #fff;
+    border: 1px solid #dfdfe0;
+    border-radius: 4px;
+    margin-top: 8px;
+}
+
+#form-button {
+    margin-top: 20px;
+    margin-bottom: 64px;
+}
+
+#footer-links {
+    width: 304px;
+    height: 150px;
+    background: #1a2236;
+    padding-left: 16px;
+    padding-top: 32px;
+}
+
+#get-resume {
+    width: 164px;
+    height: 24px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #92dcdc;
+}
+
+#resume-download {
+    padding-left: 16px;
+}
+
+ul#contact-icons-list {
+    padding: none;
+    list-style-type: none;
+    width: 288px;
+    height: 24px;
+    padding-inline-start: 0;
+    margin-top: 30px;
+}
+
+ul#contact-icons-list li {
+    width: 24px;
+    height: 24px;
+    display: inline;
+}
+
+.contact-icon {
+    padding: 0;
+    margin-right: 20px;
 }
