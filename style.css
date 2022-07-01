@@ -139,3 +139,36 @@ ul.lenguajes-list li {
     width: 20.57px;
     height: 15.35px;
 }
+
+.about-section {
+    padding-left: 16px;
+}
+
+.about-title {
+    margin-top: 56px;
+}
+
+.about-description {
+    width: 288px;
+    height: 126px;
+    margin-top: 20px;
+}
+
+.get-cv {
+    width: 288px;
+    height: 50px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #fff;
+    background: #1a2236;
+    border: 0;
+}
+
+#get-cv-icon {
+    align-self: center;
+    margin-left: 20px;
+}
