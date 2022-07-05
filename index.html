@@ -183,11 +183,11 @@
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit,
                      sed do eiusmod tempor incididunt ut labore et dolore magna.
                 </p>
-                <form action="form">
-                    <input type="text" id="form-name" placeholder="Your name" required>
-                    <input type="email" id="form-email" placeholder="Your email" required>
-                    <input type="text" id="form-message" placeholder="Enter your message here...">
-                    <button class="button-collaboration" id="form-button">
+                <form action="https://formspree.io/f/mzbolezz" method="POST" id="form">
+                    <input type="text" name="name" id="form-name" maxlength="30" placeholder="Your name" required>
+                    <input type="email" name="email" id="form-email" placeholder="Your email" required>
+                    <input type="text" name="message" id="form-message" maxlength="500" placeholder="Enter your message here..." required>
+                    <button class="button-collaboration" id="form-button" type="submit">
                         Start collaboration
                     </button>
                 </form>
