@@ -65,6 +65,7 @@ p {
   text-align: center;
   color: #fff;
   margin-top: 40px;
+  transition: background 1s, border 1s, color 1s;
 }
 
 .button-collaboration:hover {
