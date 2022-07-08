@@ -521,6 +521,12 @@ ul#contact-icons-list li {
     line-height: 80%;
   }
 
+  #work-6 li {
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 80%;
+  }
+
   #work-1 ul {
     display: inline;
     margin-right: 241px;
@@ -614,12 +620,6 @@ ul#contact-icons-list li {
 
   #plus-one-work-6 {
     display: inline;
-  }
-
-  #work-6 li {
-    font-weight: 300;
-    font-size: 20px;
-    line-height: 80%;
   }
 
   #work-3 {
