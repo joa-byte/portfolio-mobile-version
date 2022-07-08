@@ -798,18 +798,18 @@ ul#contact-icons-list li {
     font-size: 14px;
     line-height: 21px;
     letter-spacing: -0.01em;
-    color: #1A2236;
+    color: #1a2236;
   }
 
   #form {
     grid-area: 3 / 1 / 6 / 3;
-    
     display: grid;
     grid-template-columns: repeat(2, 274px);
     grid-template-rows: 162px 202px 70px;
-    grid-column-gap: 0px;
-    grid-row-gap: 0px;
+    grid-column-gap: 0;
+    grid-row-gap: 0;
   }
+
   #form input {
     margin: 0;
     align-self: center;
@@ -830,7 +830,7 @@ ul#contact-icons-list li {
   #form-email {
     width: 244px;
     height: 60px;
-    grid-area: 1 / 2 / 2 / 3; 
+    grid-area: 1 / 2 / 2 / 3;
     justify-self: end;
     padding-right: 4px;
   }
@@ -852,7 +852,7 @@ ul#contact-icons-list li {
     font-weight: 400;
     font-size: 16px;
     line-height: 24px;
-    color: #7D7C84;    
+    color: #7d7c84;
   }
 
   #form-button {
@@ -879,9 +879,8 @@ ul#contact-icons-list li {
     display: grid;
     grid-template-columns: 160px 144px 680px 296px 160px;
     grid-template-rows: 123px;
-    grid-column-gap: 0px;
-    grid-row-gap: 0px;
-
+    grid-column-gap: 0;
+    grid-row-gap: 0;
   }
 
   #get-resume {
